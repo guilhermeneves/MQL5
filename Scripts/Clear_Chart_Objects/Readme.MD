@@ -1,0 +1,1 @@
+The script deletes all graphical objects from a chart. It can be useful, in case the chart is overcrowded by objects that are not needed anymore.
